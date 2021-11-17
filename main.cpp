@@ -1,6 +1,12 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    cout << "does this still work?" << endl; // print
+    string name = "bob";
+    int age = 43;
+
     return 0;
 }
