@@ -4,9 +4,9 @@ using namespace std;
 
 int main() {
 
-    cout << "does this still work?" << endl; // print
     string name = "bob";
     int age = 43;
+    cout << name << " is " << age << " years old" << endl;
 
     return 0;
 }
